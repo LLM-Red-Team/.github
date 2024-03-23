@@ -12,6 +12,8 @@ LLM Red Team 意为 LLM大模型红队，大模型应用发展速度超乎了所
 
 Moonshot AI (Kimi.ai) 接口转API [kimi-free-api](https://github.com/LLM-Red-Team/kimi-free-api)
 
+阿里通义 (Qwen) 接口转API [qwen-free-api](https://github.com/LLM-Red-Team/qwen-free-api)
+
 ZhipuAI (智谱清言) 接口转API [glm-free-api](https://github.com/LLM-Red-Team/glm-free-api)
 
 聆心智能 (Emohaa) 接口转API [emohaa-free-api](https://github.com/LLM-Red-Team/emohaa-free-api)
