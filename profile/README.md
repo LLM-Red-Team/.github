@@ -30,6 +30,6 @@ ZhipuAI (智谱清言) 接口转API [glm-free-api](https://github.com/LLM-Red-Te
 
 MiniMax（海螺AI）接口转API [hailuo-free-api](https://github.com/LLM-Red-Team/hailuo-free-api)，如果好用请使用稳定的官方API（[MiniMax开放平台](https://platform.minimaxi.com)）
 
-聆心智能 (Emohaa) 接口转API [emohaa-free-api](https://github.com/LLM-Red-Team/emohaa-free-api)，如果好用请使用稳定的官方API（[MiniMax开放平台](https://platform.minimaxi.com)）
+聆心智能 (Emohaa) 接口转API [emohaa-free-api](https://github.com/LLM-Red-Team/emohaa-free-api)，如果好用请使用稳定的官方API（[智谱AI开放平台](https://open.bigmodel.cn/dev/api/super-humanoid/emohaa)）
 
-此外，我们提出一种可能的提高逆向成本的方案：[ban-free-api](https://github.com/LLM-Red-Team/ban-free-api)，如果好用请使用稳定的官方API（[智谱AI开放平台](https://open.bigmodel.cn/dev/api/super-humanoid/emohaa)）
+此外，我们提出一种可能的提高逆向成本的方案：[ban-free-api](https://github.com/LLM-Red-Team/ban-free-api)
