@@ -8,26 +8,28 @@ LLM Red Team 意为 LLM大模型红队，大模型应用发展速度超乎了所
 
 **所有内容仅供研究禁止套壳对外服务对官方造成服务压力！！**
 
-文档站点：https://llm-red-team.github.io/free-api/
+文档站点：[https://llm-red-team.github.io/free-api/](https://llm-red-team.github.io/free-api/)
+
+联系我们：[Vinlic](https://www.vinlic.com)
 
 以下是我们目前已公开的仓库：
 
-Moonshot AI (Kimi.ai) 接口转API [kimi-free-api](https://github.com/LLM-Red-Team/kimi-free-api)
+Moonshot AI (Kimi.ai) 接口转API [kimi-free-api](https://github.com/LLM-Red-Team/kimi-free-api)，如果好用请使用稳定的官方API（[Moonshot AI开放平台](https://platform.moonshot.cn)）
 
-阶跃星辰 (跃问StepChat) 接口转API [step-free-api](https://github.com/LLM-Red-Team/step-free-api)
+阶跃星辰 (跃问StepChat) 接口转API [step-free-api](https://github.com/LLM-Red-Team/step-free-api)，如果好用请使用稳定的官方API（[阶跃星辰开放平台](https://platform.stepfun.com)）
 
-阿里通义 (Qwen) 接口转API [qwen-free-api](https://github.com/LLM-Red-Team/qwen-free-api)
+阿里通义 (Qwen) 接口转API [qwen-free-api](https://github.com/LLM-Red-Team/qwen-free-api)，如果好用请使用稳定的官方API（[阿里云百炼平台](https://www.aliyun.com/product/bailian)）
 
-ZhipuAI (智谱清言) 接口转API [glm-free-api](https://github.com/LLM-Red-Team/glm-free-api)
+ZhipuAI (智谱清言) 接口转API [glm-free-api](https://github.com/LLM-Red-Team/glm-free-api)，如果好用请使用稳定的官方API（[智谱AI开放平台](https://open.bigmodel.cn)）
 
-深度求索（DeepSeek）接口转API [deepseek-free-api](https://github.com/LLM-Red-Team/deepseek-free-api)
+深度求索（DeepSeek）接口转API [deepseek-free-api](https://github.com/LLM-Red-Team/deepseek-free-api)，如果好用请使用稳定的官方API（[智谱AI开放平台](https://open.bigmodel.cn)）
 
-秘塔AI (metaso) 接口转API [metaso-free-api](https://github.com/LLM-Red-Team/metaso-free-api)
+秘塔AI (metaso) 接口转API [metaso-free-api](https://github.com/LLM-Red-Team/metaso-free-api)，如果好用请使用稳定的官方API（[DeepSeek开放平台](https://platform.deepseek.com)）
 
-讯飞星火（spark）接口转API [spark-free-api](https://github.com/LLM-Red-Team/spark-free-api)
+讯飞星火（spark）接口转API [spark-free-api](https://github.com/LLM-Red-Team/spark-free-api)，如果好用请使用稳定的官方API（[讯飞星火大模型API](https://xinghuo.xfyun.cn/sparkapi)）
 
-MiniMax（海螺AI）接口转API [hailuo-free-api](https://github.com/LLM-Red-Team/hailuo-free-api)
+MiniMax（海螺AI）接口转API [hailuo-free-api](https://github.com/LLM-Red-Team/hailuo-free-api)，如果好用请使用稳定的官方API（[MiniMax开放平台](https://platform.minimaxi.com)）
 
-聆心智能 (Emohaa) 接口转API [emohaa-free-api](https://github.com/LLM-Red-Team/emohaa-free-api)
+聆心智能 (Emohaa) 接口转API [emohaa-free-api](https://github.com/LLM-Red-Team/emohaa-free-api)，如果好用请使用稳定的官方API（[MiniMax开放平台](https://platform.minimaxi.com)）
 
-此外，我们提出一种可能的提高逆向成本的方案：[ban-free-api](https://github.com/LLM-Red-Team/ban-free-api)
+此外，我们提出一种可能的提高逆向成本的方案：[ban-free-api](https://github.com/LLM-Red-Team/ban-free-api)，如果好用请使用稳定的官方API（[智谱AI开放平台](https://open.bigmodel.cn/dev/api/super-humanoid/emohaa)）
