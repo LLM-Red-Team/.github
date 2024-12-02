@@ -22,9 +22,9 @@ Moonshot AI (Kimi.ai) 接口转API [kimi-free-api](https://github.com/LLM-Red-Te
 
 ZhipuAI (智谱清言) 接口转API [glm-free-api](https://github.com/LLM-Red-Team/glm-free-api)，如果好用请使用稳定的官方API（[智谱AI开放平台](https://open.bigmodel.cn)）
 
-深度求索（DeepSeek）接口转API [deepseek-free-api](https://github.com/LLM-Red-Team/deepseek-free-api)，如果好用请使用稳定的官方API（[智谱AI开放平台](https://open.bigmodel.cn)）
+深度求索（DeepSeek）接口转API [deepseek-free-api](https://github.com/LLM-Red-Team/deepseek-free-api)，如果好用请使用稳定的官方API（[DeepSeek开放平台](https://platform.deepseek.com)）
 
-秘塔AI (metaso) 接口转API [metaso-free-api](https://github.com/LLM-Red-Team/metaso-free-api)，如果好用请使用稳定的官方API（[DeepSeek开放平台](https://platform.deepseek.com)）
+秘塔AI (metaso) 接口转API [metaso-free-api](https://github.com/LLM-Red-Team/metaso-free-api)，如果好用请使用官方（[秘塔AI](https://metaso.cn)）
 
 讯飞星火（spark）接口转API [spark-free-api](https://github.com/LLM-Red-Team/spark-free-api)，如果好用请使用稳定的官方API（[讯飞星火大模型API](https://xinghuo.xfyun.cn/sparkapi)）
 
