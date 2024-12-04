@@ -24,6 +24,8 @@ ZhipuAI (智谱清言) 接口转API [glm-free-api](https://github.com/LLM-Red-Te
 
 深度求索（DeepSeek）接口转API [deepseek-free-api](https://github.com/LLM-Red-Team/deepseek-free-api)，如果好用请使用稳定的官方API（[DeepSeek开放平台](https://platform.deepseek.com)）
 
+字节跳动（豆包）接口转API [doubao-free-api](https://github.com/LLM-Red-Team/doubao-free-api)，如果好用请使用稳定的官方API（[火山引擎](https://www.volcengine.com/product/doubao)）
+
 秘塔AI (metaso) 接口转API [metaso-free-api](https://github.com/LLM-Red-Team/metaso-free-api)，如果好用请使用稳定的官方API（[秘塔AI](https://mp.weixin.qq.com/s/UmG_o53ZmrhC_5oq1SZJBw)）
 
 讯飞星火（spark）接口转API [spark-free-api](https://github.com/LLM-Red-Team/spark-free-api)，如果好用请使用稳定的官方API（[讯飞星火大模型API](https://xinghuo.xfyun.cn/sparkapi)）
