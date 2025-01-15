@@ -32,7 +32,7 @@ ZhipuAI (智谱清言) 接口转API [glm-free-api](https://github.com/LLM-Red-Te
 
 讯飞星火（spark）接口转API [spark-free-api](https://github.com/LLM-Red-Team/spark-free-api)，如果好用请使用稳定的官方API（[讯飞星火大模型API](https://xinghuo.xfyun.cn/sparkapi)）
 
-MiniMax（海螺AI）接口转API [hailuo-free-api](https://github.com/LLM-Red-Team/hailuo-free-api)，如果好用请使用稳定的官方API（[MiniMax开放平台](https://platform.minimaxi.com)）
+MiniMax（海螺AI）接口转API [minimax-free-api](https://github.com/LLM-Red-Team/minimax-free-api)，如果好用请使用稳定的官方API（[MiniMax开放平台](https://platform.minimaxi.com)）
 
 聆心智能 (Emohaa) 接口转API [emohaa-free-api](https://github.com/LLM-Red-Team/emohaa-free-api)，如果好用请使用稳定的官方API（[智谱AI开放平台](https://open.bigmodel.cn/dev/api/super-humanoid/emohaa)）
 
