@@ -12,6 +12,8 @@ LLM Red Team 意为 LLM大模型红队，大模型应用发展速度超乎了所
 
 联系我们：[Vinlic](https://www.vinlic.com)
 
+联网搜索API：[UniFuncs API](https://unifuncs.com/api)
+
 以下是我们目前已公开的仓库：
 
 Moonshot AI (Kimi.ai) 接口转API [kimi-free-api](https://github.com/LLM-Red-Team/kimi-free-api)，如果好用请使用稳定的官方API（[Moonshot AI开放平台](https://platform.moonshot.cn)）
